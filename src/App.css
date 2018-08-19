@@ -5,6 +5,9 @@
   align-items: center;
   justify-content: space-around;
   text-align: center;
+  background-image: url('./assets/color-shirts-2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .logo {
@@ -38,7 +41,7 @@
 .support {
   background: white;
   border: 1px solid black;
-  padding: 1em;
+  padding: 0.7em;
 }
 
 .support a {
@@ -64,13 +67,17 @@
   width: 200%;;
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 768px) {
   .logo {
     width: 300px;
   }
 
   .content {
     width: 80vw;
+  }
+
+  .social img {
+    padding: 0.3em;
   }
 }
 

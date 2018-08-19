@@ -31,18 +31,18 @@ with socially-driven messages and concepts, promoting unification and community.
             <a href='https://wordpress.com' target='_blank' rel='noopener noreferrer'>
               <img src={wordpress} alt='wordpress'/>
             </a>
-            <a href='https://facebook.com' target='_blank' rel='noopener noreferrer'>
+            <a href='https://www.facebook.com/veosapparel/' target='_blank' rel='noopener noreferrer'>
               <img src={facebook} alt='facebook'/>
             </a>
-            <a href='https://instagram.com' target='_blank' rel='noopener noreferrer'>
+            <a href='https://www.instagram.com/veosapparel/?hl=en' target='_blank' rel='noopener noreferrer'>
               <img src={instagram} alt='instagram'/>
             </a>
             <a href='https://twitter.com' target='_blank' rel='noopener noreferrer'>
               <img src={twitter} alt='twitter'/>
             </a>
-            {/* <a href='https://pinterest.com' target='_blank' rel='noopener noreferrer'>
+            <a href='https://www.pinterest.com/veosapparel/?eq=veos%20app&etslf=5220' target='_blank' rel='noopener noreferrer'>
               <img className='pinterest' src={pinterest} alt='pinterest'/>
-            </a> */}
+            </a>
           </div>
         </div>
 
