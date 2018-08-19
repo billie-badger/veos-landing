@@ -26,7 +26,7 @@ with socially-driven messages and concepts, promoting unification and community.
           <div className='support'>
             <a href='https://www.kickstarter.com/projects/1274085873/veos-apparel-inc?ref=nav_search&result=project&term=veos' target='_blank' rel='noopener noreferrer'>SUPPORT NOW</a>
           </div>
-          <p>Our site will be up soon. Meanwhile, follow our journey on our blog and social media!</p>
+          <p className='follow'>Our site will be up soon. Meanwhile, follow our journey on our blog and social media!</p>
           <div className='social'>
             <a href='https://wordpress.com' target='_blank' rel='noopener noreferrer'>
               <img src={wordpress} alt='wordpress'/>
