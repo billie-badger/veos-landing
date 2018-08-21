@@ -28,7 +28,7 @@ with socially-driven messages and concepts, promoting unification and community.
           </div>
           <p className='follow'>Our site will be up soon. Meanwhile, follow our journey on our blog and social media!</p>
           <div className='social'>
-            <a href='https://wordpress.com' target='_blank' rel='noopener noreferrer'>
+            <a href='https://veosapparel.wordpress.com/' target='_blank' rel='noopener noreferrer'>
               <img src={wordpress} alt='wordpress'/>
             </a>
             <a href='https://www.facebook.com/veosapparel/' target='_blank' rel='noopener noreferrer'>
