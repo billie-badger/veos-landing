@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import logo from './assets/Veos_Logo_Horizontal.svg';
-import kickstarter from './assets/Kickstarter_Logo.png';
 import wordpress from './assets/WP.svg';
 import facebook from './assets/FB.svg';
 import instagram from './assets/IG.svg';
@@ -19,13 +18,6 @@ class App extends Component {
           <br />
 with socially-driven messages and concepts, promoting unification and community.
           </p>
-          <div className='kickstarter'>
-            <h3>Now on</h3>
-            <img src={kickstarter} width='200px' height='25px' alt='kickstarter'/>
-          </div>
-          <div className='support'>
-            <a href='https://www.kickstarter.com/projects/1274085873/veos-apparel-inc?ref=nav_search&result=project&term=veos' target='_blank' rel='noopener noreferrer'>SUPPORT NOW</a>
-          </div>
           <p className='follow'>Our site will be up soon. Meanwhile, follow our journey on our blog and social media!</p>
           <div className='social'>
             <a href='https://veosapparel.wordpress.com/' target='_blank' rel='noopener noreferrer'>
